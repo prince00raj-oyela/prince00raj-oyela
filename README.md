@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="42" /> Prince00Raj
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="920" alt="Cybersecurity and coding animation" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="920" alt="Cat typing coding animation" />
 </p>
 
 <p align="center">
@@ -87,14 +87,20 @@ $ ./run-mission.sh
 
 ## 📡 Connect With Me
 
-<p align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="420" alt="Cybersecurity lock animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/prince00raj-oyela">
-    <img src="https://img.shields.io/badge/GitHub-prince00raj--oyela-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF3B30?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20hello-FF3B30?style=for-the-badge&logo=gmail" alt="Email me" />
   </a>
 </p>
+
+<p align="center"><i>Let’s build, learn, and make the digital world more secure.</i></p>
 
 ```text
 [+] Keep learning.
