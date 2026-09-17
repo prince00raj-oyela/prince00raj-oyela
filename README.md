@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="42" /> Prince00Raj
+# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="42" /> Prince Raj
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="920" alt="Anime-inspired coding vibe animation" />
