@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="42" /> Prince00Raj
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="920" alt="Cat typing coding animation" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="920" alt="Anime-inspired coding vibe animation" />
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ $ ./run-mission.sh
 04  Use knowledge to strengthen security—not cause harm.
 ```
 
-## 🔥 Cyber Coding Vibe
+## 🔥 Anime Coding Vibe
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Developer coding animation" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Cybersecurity coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding screen animation" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Creative coding animation" />
 </p>
 
 ## 📡 Connect With Me
