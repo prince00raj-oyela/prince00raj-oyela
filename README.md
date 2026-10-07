@@ -1,8 +1,10 @@
 # <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="42" /> Prince Raj
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="920" alt="Anime-inspired coding vibe animation" />
-</p>
+<!-- Cyberpunk Mainframe Header GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prince0raj/prince0raj/main/assets/header.gif" width="100%" style="border-radius: 8px; display: block;" alt="Cyberpunk Mainframe Banner" />
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prince00raj-oyela&label=PROFILE+VIEWS&color=0f172a&style=for-the-badge" alt="Profile views" />
